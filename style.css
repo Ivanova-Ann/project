@@ -1,0 +1,133 @@
+body {
+    font-family: sans-serif;
+}
+
+
+ header {
+
+color: black;
+background-color: rgb(119, 195, 221);
+padding: 10px;
+}
+
+
+
+ header b{
+font-size:18px ;
+margin: 5px;
+}
+
+
+header a {
+
+margin:10px ;
+    font-size: 16px;
+}
+
+
+h1{
+
+color: rgb(18, 0, 182);
+background-color: rgb(106, 230, 230);
+padding: 10 px;
+text-align: center;
+}
+
+
+
+footer p{
+
+background-color: lightblue;
+font-size:21px ;
+
+
+}
+
+
+
+nav{
+text-align:center;
+border-radius: 30px; 
+background-color: rgb(0, 38, 255);
+padding: 10px;
+margin: 10px;
+font-size: 25px;
+
+}
+
+nav a{
+
+text-decoration: none;
+color: rgb(255, 255, 255);
+
+
+}
+
+.old{
+border-radius: 30px; 
+background-color: rgb(174, 218, 139);
+padding: 10px;
+margin: 10px;
+}
+
+
+.klk{
+border-radius: 30px; 
+background-color: rgb(174, 218, 139);
+padding: 10px;
+margin: 10px;
+}
+
+.plp{
+border-radius: 30px; 
+background-color: rgb(174, 218, 139);
+padding: 10px;
+margin: 10px;
+}
+
+.oo{
+border-radius: 30px; 
+background-color: rgb(174, 218, 139);
+padding: 10px;
+margin: 10px;
+}
+
+
+
+.uu{
+color: rgb(0, 107, 194);
+text-align: center;
+font-size: 30px;
+}
+
+.kk{
+color: rgb(182, 48, 182);
+text-align: center;
+font-size: 30px;
+}
+.hhk{
+border-radius: 30px; 
+background-color: rgb(255, 61, 174);
+padding: 10px;
+margin: 10px;
+text-decoration: none;
+color: black;
+}
+.klkk{
+color: crimson;
+font-size: 30px;
+}
+
+.jj{
+color: indigo;
+font-size: 30px;
+
+}
+.kpk{
+border-radius: 30px; 
+background-color: rgb(164, 29, 190);
+padding: 10px;
+margin: 10px;
+text-decoration: none;
+color: black
+}
